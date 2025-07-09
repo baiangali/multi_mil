@@ -2,7 +2,7 @@
 Annotated Corpus: Information Operations in Military Discourse
 This dataset contains labeled using Label Studio as part of a research project on detecting and classifying information operations (IO) in military and geopolitical discourse.
 
-🔖 Annotation Schema
+Annotation Schema
 Each text is annotated with:
 
 Named Entities (NER-style span annotations):
